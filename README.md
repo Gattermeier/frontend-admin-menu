@@ -1,7 +1,5 @@
-frontend-admin-menu
-===================
-
 FEAM.js - Front End Admin Menu
+===================
 
 A jQuery based boilerplate menu for ajaxified frontend admin panels.
 Or.. just a fancy menu. 
